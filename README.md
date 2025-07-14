@@ -1,10 +1,1 @@
-## AWS ARCHITECTURE 
-THINGS NEEDED. 
-- AWS VPC 
-- AWS sheet 
-- IGW
-- NAT GW
-- BASTION HOST/JUMP SERVER 
-- ROUTE TABLE
-- KEYPAIRS [.PERM ]
-- ELASTIC IP
+Am a cloud trainee hoping to get better
