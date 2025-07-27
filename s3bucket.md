@@ -39,3 +39,10 @@ Block all public access: Leave enabled for security, unless you're hosting a pub
     On actions choose getObject.
     Then on the Amazon resource name{ARN} put in the ARN.: arn:aws:s3:::{BucketName}* then generate policy. 
     - Then upload your folders and files. N:B your index.html and error.html must be in the root file in your bucket, they should not be in any folder or it would not work.
+
+![static](images/static.png)
+![paris](images/paris.png)
+![Newyork](images/Newyork.png)
+![Sydney](images/Sydney.png)
+![Tokyo](images/Tokyo.png)
+Thats it for now
